@@ -1,16 +1,16 @@
 # UofT SCS Bootcamp Assignment 1: HTML, CSS, Git
 
-## INTRODUCTION
+## Introduction
 Given code to refactor, improve accessbility, and replace unneccessary elements with semantic elements.
 Several steps were taken to achieve the goal of an accessible, efficient webpage through meta data edits, repaired missing code, accessibility improvements, use of semantic code, condensation of CSS, and adding comments.
 ## Table of Contents
-1. Motivation
-2. Changelog
-3. Screen Shots
-4. Installation
-5. Contribute 
-6. Credits
-7. License 
+1. [Motivation](#motivation)
+2. [Changelog](#changelog)
+3. [Images](#images)
+4. [Installation](#installation)
+5. [Contribute](#contribute)
+6. [Credits](#credits)
+7. [License](#license) 
 ## Motivation
 - To optimize the Horiseon webpage.
 ## Changelog
@@ -28,10 +28,10 @@ Replaced numerous instances of div elements with respective elements, including 
 - Replaced benefit-lead, benefit-brand, and benefit-cost class selectors with one benefits class selector, replacing the respective classes in the HTML file.
 - Replaced search-engine-optimization, online-reputation-management, and social-media-marketing class selectors with single box-content class replacing the respective classes in HTML file.
 
-## Screen Shots
-- Image of working website 
-![alt text](screenshot1.png)
-![alt text](Screenshot2.png)
+## Images
+- Images of working website:
+![alt text](./assets/images/Site_1.png)
+![alt text](./assets/images/Site_2.png)
 ## Installation
 - N/A
 ## Contribute
